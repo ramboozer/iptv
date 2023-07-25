@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLIST:Zoo
+#EXTINF:-1 tvg-logo="https://sdzsafaripark.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-hippo-cam.jpg" group-title="Zoo",Hippos
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sdzsafaripark.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/elephants.jpg" group-title="Zoo",Elephants
+https://zssd-elephant.hls.camzonecdn.com/CamzoneStreams/zssd-elephant/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-pandacam.jpg" group-title="Zoo",Pandas
+https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-cam-platypus.jpg" group-title="Zoo",Platypus
+https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/playlist.m3u8
